@@ -1,4 +1,4 @@
-CSC418 Final Project
+CSC418(Computer Graphics) Final Project
 ===========================================
 Winner of the course competition, featured `here <https://github.com/dilevin/computer-graphics-final-image-competition>`__
 
